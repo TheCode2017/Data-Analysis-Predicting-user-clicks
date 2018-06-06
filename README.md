@@ -1,4 +1,4 @@
-# Data-Analysis-Predicting-user-clicks
+# Data Analysis-Predicting whether a user clicks on an advertisement or not
 
 # Aim of the project
 In this case study ,I determine the number of users who are likely to click on an advertisement given information about the user.
@@ -15,7 +15,7 @@ In this case study ,I determine the number of users who are likely to click on a
 
 
 # Dataset Description
-This dataset consists of 9 feature columns and 1 target column 'Clicked on Ad' that we want to predict
+This dataset consists of 9 feature columns and 1 target column 'Clicked on Ad' that we want to predict.
 ## Feature Columns
 * Daily Time (Float)
 * Age (Integer)
