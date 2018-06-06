@@ -40,5 +40,15 @@ This dataset consists of 9 feature columns and 1 target column 'Clicked on Ad' t
   2.a Label encoded the String columns since Machine lerning models are all about dealing with numbers! Exciting!
   2.b Used a scatterplot to visualize the transformed data.
 3.  The third step is to feed the data to the model
-  3.a In this projec
+  3.a I start off by training my data on a simple Logistic Regression model which gave me an accuracy of 91% with number of True Positives as 89 and number of True Negatives as 93. (Total number of test data-200). Precision-90%, Recall-92%, F-1 score-91%
+  3.b Then I trained my data on a more powerful model( Decision trees). Accuracy-94%, TP- 90 TN- 95 Precision-93%, Recall-94%.
+  3.c Using the powerful bagging classifier- Random Forest model(100 decision trees)- Accuracy- 97% TP-95 TN- 98, Precision- 94%, Recall - 95%.
+  
+The above results are also backed with a ROC curve that depicts the True positive and False positive rate.
+
+# Conclusion
+I was able to successfully predict the users who are likely to click the advertisemnt data with an accuaracy of 97% using the Random Forest model with 100 decision trees.
+
+I was able to successfully build three
+  
   
