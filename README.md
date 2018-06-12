@@ -49,7 +49,7 @@ This dataset consists of 9 feature columns and 1 target column 'Clicked on Ad' t
 The above results are also backed up by a ROC curve that depicts the True positive and False positive rate.
 
 # Conclusion
-I was able to successfully predict the users who are likely to click the advertisemnt data with an accuaracy of 97% using the Random Forest model with 100 decision trees.
+I was able to successfully predict the users who are likely to click the advertisement data with an accuracy of 97% using the Random Forest model with 100 decision trees.
 
 
   
